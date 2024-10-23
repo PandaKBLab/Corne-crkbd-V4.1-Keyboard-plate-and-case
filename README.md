@@ -8,7 +8,7 @@ Print files can be downloaded from makerworld.
 [Corne v4.1 MX](https://makerworld.com/en/models/707354#profileId-637413)
 
 # Links 链接
-Discord: PandaKB Community
+Discord: [PandaKB Community](https://discord.gg/VMpcMuNcHf)
 Website:https://pandakb.com/.
 
 # License 许可证
